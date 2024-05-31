@@ -1,10 +1,11 @@
+At a glance: 
 This repository is designed to showcase various machine learning projects and algorithms. 
 It aims to discover patterns in data and make predictions to answer business questions, detect trends, and solve problems. 
 
 The repository includes multiple Jupyter notebooks, such as a Naive Bayes classifier and a Titanic dataset analysis, demonstrating practical applications of machine learning techniques.
 
 
-
+About my project:
 In this project, I build a Gaussian Naïve Bayes Classifier model to predict whether a person makes over 50K a year. The model yields a very good performance as indicated by the model accuracy which was found to be 0.8083.
 
 The training-set accuracy score is 0.8067 while the test-set accuracy to be 0.8083. These two values are quite comparable. So, there is no sign of overfitting.
