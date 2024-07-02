@@ -1,8 +1,12 @@
-At a glance: 
+# At a glance: 
 
 
 This repository is designed to showcase various machine learning projects and algorithms. 
 It aims to discover patterns in data and make predictions to answer business questions, detect trends, and solve problems. 
+The project will demonstate the varibales which are dependent on the income level for the each variable in the dataseet. 
+
+# At the final finish,
+The experiment shows as a decent result. 
 
 The repository includes multiple Jupyter notebooks, such as a Naive Bayes classifier, demonstrating practical applications of machine learning techniques.
 
